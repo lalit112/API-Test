@@ -1,0 +1,13 @@
+Project Title
+Simple REST API
+
+Getting Started
+This contains two files my_api.py(main code file) and test_api.py(unit test file)
+
+Prerequisites
+Install the following modules before executing the file
+
+pip install flask
+pip install pytest
+
+APi is hosted on localhost:8080
